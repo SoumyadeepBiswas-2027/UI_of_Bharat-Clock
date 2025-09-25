@@ -10,5 +10,6 @@ function App() {
       <ClockSlogan/>
       <CurrentTime/>
     </center>)
+    
   };
 export default App;
